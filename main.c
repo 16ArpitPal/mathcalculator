@@ -4,7 +4,7 @@
 #include"Cal.h"
 
 void test_1(void)
-{
+{printf("commtited by tarun");
 assert(calc(4,4,1)==8);
 printf("\nThe addition of two positive no ");
 
